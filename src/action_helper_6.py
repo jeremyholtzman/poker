@@ -5,7 +5,7 @@ import numpy as np
 import collections
 import importlib
 
-os.chdir('/Users/jeremyholtzman/Documents/Personal/Poker')
+os.chdir('/Users/jeremyholtzman/Documents/Personal/Poker/src')
 from classes import hands
 
 def betting(order, action_df, small_blind, big_blind, round, cards, balance_dict):

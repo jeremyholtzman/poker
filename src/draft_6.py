@@ -5,7 +5,7 @@ import numpy as np
 import collections
 import importlib
 
-os.chdir('/Users/jeremyholtzman/Documents/Personal/Poker')
+os.chdir('/Users/jeremyholtzman/Documents/Personal/Poker/src')
 
 from action_helper_6 import betting, evaluate_hands_v2
 from classes import deal_cards
